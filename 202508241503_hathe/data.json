@@ -1,0 +1,242 @@
+{
+  "name": "Hatheraja Anvardeen",
+  "bio": "A Passionate Software Developer specialized in creating modern, scalable applications.",
+  "imageSrc": "https://lh3.googleusercontent.com/ogw/AF2bZygoV43jdCBAgEUVDdO6NLGDwehYJ6M882vMR7iw0J3JQLQ=s32-c-mo",
+  "roles": [
+    {
+      "text": "Full Stack Developer"
+    },
+    {
+      "text": "Frontend Engineer"
+    },
+    {
+      "text": "Web-app Developer"
+    }
+  ],
+  "aboutMeHeader": "Passionate Full Stack Developer",
+  "aboutMeContent": [
+    "paragraph 1 paragraph 1 paragraph 1 paragraph 1 paragraph 1 paragraph 1 paragraph 1 paragraph 1 paragraph 1 paragraph 1 paragraph 1 paragraph 1 ",
+    "paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 "
+  ],
+  "aboutMeBadges": [
+    {
+      "label": "badge 1",
+      "icon": "badge1.com"
+    },
+    {
+      "label": "badge 2",
+      "icon": "badge2.com"
+    },
+    {
+      "label": "badge 3",
+      "icon": "badge3.com"
+    }
+  ],
+  "contactInfo": {
+    "header": "contact header contact header contact header ",
+    "description": "contact description contact description contact description contact description contact description ",
+    "mail": "hatheraja07@gmail.com",
+    "mobile": [
+      "06369048678",
+      "mobile 2 mobile 2 "
+    ],
+    "location": "location 1 only location 1 only ",
+    "mapInfo": {
+      "title": "map title only map title only map title only ",
+      "source": "mapurl.com"
+    },
+    "socialProfile": {
+      "github": "https://www.github.com",
+      "linkedin": "https://www.linkedin.com",
+      "twitter": "https://www.twitter.com",
+      "instagram": "https://www.instagram.com"
+    }
+  },
+  "experiences": [
+    {
+      "title": "exp title 1",
+      "company": "exp company 1",
+      "logo": "expcomp1url.com",
+      "period": "exp comp1 period",
+      "description": "exp company 1 description",
+      "technologies": [
+        "exp comp1 t1",
+        "exp comp1 t2",
+        "exp comp1 t3"
+      ]
+    },
+    {
+      "title": "exp title 2",
+      "company": "exp company 2",
+      "logo": "expcomp2url.com",
+      "period": "exp comp2 period",
+      "description": "exp company 2 description",
+      "technologies": [
+        "exp comp2 t1",
+        "exp comp2 t2",
+        "exp comp2 t3"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "ed1 degree",
+      "field": "ed1 field",
+      "institution": "ed1 institution",
+      "logo": "ed1url.com",
+      "period": "ed1period"
+    },
+    {
+      "degree": "ed2 degree",
+      "field": "ed2 field",
+      "institution": "ed2 institution",
+      "logo": "ed2url.com",
+      "period": "ed2period"
+    }
+  ],
+  "skills": [
+    {
+      "name": "React JS",
+      "level": 90,
+      "category": "fend",
+      "icon": "reacturl.com"
+    },
+    {
+      "name": "HTML5",
+      "level": 80,
+      "category": "fend",
+      "icon": "htmlurl.com"
+    },
+    {
+      "name": "CSS3",
+      "level": 70,
+      "category": "fend",
+      "icon": "cssimage.com"
+    },
+    {
+      "name": "Python",
+      "level": 80,
+      "category": "bend",
+      "icon": "pythonimage.com"
+    },
+    {
+      "name": "MongoDB",
+      "level": 80,
+      "category": "dbase",
+      "icon": "https://images.seeklogo.com/logo-png/48/2/mongodb-logo-png_seeklogo-481256.png"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "project1 title",
+      "description": "project 1 description project 1 description project 1 description project 1 description project 1 description project 1 description project 1 description project 1 description project 1 description project 1 description project 1 description ",
+      "image": "project1imageurl.com",
+      "technologies": [
+        "project1 t1",
+        "project1 t2",
+        "project1 t3",
+        "project1 t4",
+        "project1 t5"
+      ],
+      "liveUrl": "project1liveurl.com",
+      "githubUrl": "project1liveurl.com",
+      "category": "web",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "project2 title",
+      "description": "project2 description project2 description project2 description project2 description project2 description project2 description project2 description project2 description ",
+      "image": "project2imageurl.com",
+      "technologies": [
+        "project2 t1",
+        "project2 t2",
+        "project2 t3",
+        "project2 t4"
+      ],
+      "liveUrl": "project2liveurl.com",
+      "githubUrl": "project2liveurl.com",
+      "category": "research",
+      "featured": true
+    }
+  ],
+  "testimonials": [],
+  "footer": {
+    "name": "footer name",
+    "header": "footer header",
+    "description": "footer description",
+    "mail": "footer@gmail.com",
+    "mobile": [
+      "footer mobile1",
+      "footer mobile2"
+    ],
+    "location": "footer location",
+    "mapInfo": {
+      "title": "footer map title",
+      "source": "footermapurl.com"
+    },
+    "socialProfile": {
+      "github": "footersocialprofile1.com",
+      "linkedin": "footersocialprofile2.com",
+      "twitter": "footersocialprofile3.com",
+      "instagram": "footersocialprofile4.com"
+    }
+  },
+  "navbar": {
+    "name": "navbar name"
+  },
+  "skillCategories": [
+    {
+      "id": "all",
+      "name": "All Skills"
+    },
+    {
+      "id": "others",
+      "name": "Others"
+    },
+    {
+      "id": "fend",
+      "name": "Front End"
+    },
+    {
+      "id": "bend",
+      "name": "Backend"
+    },
+    {
+      "id": "dbase",
+      "name": "Database"
+    }
+  ],
+  "projectCategories": [
+    {
+      "id": "all",
+      "name": "All Projects"
+    },
+    {
+      "id": "featured",
+      "name": "Featured"
+    },
+    {
+      "id": "web",
+      "name": "Web Applications"
+    },
+    {
+      "id": "research",
+      "name": "Research"
+    },
+    {
+      "id": "ai",
+      "name": "AI Based"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "HashiCorp Certified: Terraform Associate (002)",
+      "platform": "HashiCorp",
+      "period": "Issued Mar 2023 · Expired Mar 2025",
+      "link": "https://www.credly.com/badges/fa87c0e4-4051-42df-9fa4-772aced0c978/linked_in_profile",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/HashiCorp_Logo_no_text.png"
+    }
+  ]
+}
